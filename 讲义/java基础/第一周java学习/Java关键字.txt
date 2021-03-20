@@ -1,0 +1,15 @@
+Java的关键字对Java的编译器有特殊的意义，他们用来表示一种数据类型，
+或者表示程序的结构等，关键字不能用作变量名、方法名、类名、包名和参数。
+
+Java关键字48个
+ abstract     default     if        private      this     boolean    do   
+ implements   protected   throw     break        double   import     public
+ throws       byte        else      instanceof   return   transient  case 
+ extends      int         short     try          catch    final      interface  static 
+ void         char        finally   long         strictp  volatile   class      float
+ native       super       while     const        for      new        switch     continue
+ goto         package     synchronized
+
+注： 
+  需要注意的是java中 true, false, null， goto, const  不是关键字, 是（Java保留字，它不用，你也不能用）
+
